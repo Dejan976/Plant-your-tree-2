@@ -33,6 +33,7 @@ header a{
 h1{
     font-family:'Roboto',sans-serif;
     text-transform:uppercase;
+    text-align:center;
 }
 #menu{
     font-style:120%;
@@ -78,4 +79,11 @@ margin-top:47px;
     padding-left: 2rem;
 }
 
+}
+h2,h3{
+    color:grey;
+    text-align:center;
+}
+#about{
+    background-color:beige;
 }
